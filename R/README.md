@@ -1,7 +1,7 @@
 # R wrapper for ForecastThis models
 
 ## Installation
-1. Download [the latest R wrapper release](https://github.com/jacek-rzrz/ForecastThisModels/releases/download/1.0.0/ForecastThisModels-R-1.0.0.tar.gz)
+1. Download [the latest R wrapper release](https://github.com/ForecastThis/ModelWrappers/releases/download/1.0.0/ForecastThisModels-R-1.0.0.tar.gz)
 2. Install the wrapper package by executing `R CMD INSTALL ForecastThisModels-R-1.0.0.tar.gz` in your terminal or open Rstudio and click `Tools -> Install Packages...`, select `Install from: Package Archive File (.tar.gz)` and point to the downloaded file.
 
 ## System requirements
