@@ -1,0 +1,19 @@
+Package: ForecastThis
+Type: Package
+Title: R interface for ForecastThis models
+Version: 1.0
+Date: 2015-05-26
+Author: Liliana Medina [aut, cre],
+        Adam Harasimowicz [ctb],
+        Jacek Rzeniewicz [ctb]
+Maintainer: Jacek Rzeniewicz <jacek@forecastthis.com>
+Description: Interface between R and ForecastThis DSX models: train predictive models
+    or use models previously trained with ForecastThis DSX to make predictions
+    on new data.
+License: AGPL-3
+Depends:
+    R (>= 3.0.0),
+    rJava,
+    RUnit
+SystemRequirements: Java (>= 1.8)
+LazyLoad: yes
